@@ -45,7 +45,7 @@ To get started with the Portfolio Dashboard, follow these steps:
    ```
 
 4. **Start the Development Server:**
-   ```shell
+   ``` shell
    npm start
    ```
 
