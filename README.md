@@ -100,4 +100,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for using the Portfolio Dashboard! If you have any questions or need assistance, please don't hesitate to [contact us](mailto:your.email@example.com). Happy portfolio building!
+Thank you for using the Portfolio Dashboard! If you have any questions or need assistance, please don't hesitate to [contact us](mailto:gafoor.mngr@gmail.com). Happy portfolio building!
