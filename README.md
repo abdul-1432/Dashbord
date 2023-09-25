@@ -40,7 +40,7 @@ To get started with the Portfolio Dashboard, follow these steps:
    ```
 
 3. **Install Dependencies:**
-   ```shell
+   ``` shell
    npm install
    ```
 
