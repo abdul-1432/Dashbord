@@ -31,7 +31,7 @@ To get started with the Portfolio Dashboard, follow these steps:
 
 1. **Clone the Repository:**
    ```shell
-   git clone https://github.com/yourusername/portfolio-dashboard.git
+   git clone https://github.com/abdul-1432/Dashbord
    ```
 
 2. **Navigate to the Project Directory:**
