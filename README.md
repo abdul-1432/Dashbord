@@ -35,7 +35,7 @@ To get started with the Portfolio Dashboard, follow these steps:
    ```
 
 2. **Navigate to the Project Directory:**
-   ```shell
+   ``` shell
    cd portfolio-dashboard
    ```
 
