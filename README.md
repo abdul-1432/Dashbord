@@ -30,7 +30,7 @@ The Portfolio Dashboard is a web-based application that allows users to create a
 To get started with the Portfolio Dashboard, follow these steps:
 
 1. **Clone the Repository:**
-   ```shell
+   ``` shell
    git clone https://github.com/abdul-1432/Dashbord
    ```
 
