@@ -49,6 +49,9 @@ To get started with the Portfolio Dashboard, follow these steps:
    npm start
    ```
 
+5. **Access the Dashboard:**
+   Open your web browser and visit `http://localhost:3000` to access the dashboard.
+
 ## Usage
 
 ### Getting Started
